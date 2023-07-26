@@ -13,3 +13,4 @@ This architecture aims to signifanctly reduce the size of the model.
   *  Running on mobile devices in reasonable time without sacraficing quality too much like other feed-forward approaches.
 
 ![Architecture](images/architecture.png?raw=true "Architecture")
+ 
